@@ -1,6 +1,6 @@
 {
   "ids": {
-    "Todo": 8
+    "Todo": 9
   },
   "models": {
     "Todo": {
@@ -10,7 +10,8 @@
       "4": "{\"title\":\"crush rebel scum\",\"desc\":\"Every.Last.One.\",\"id\":4}",
       "5": "{\"title\":\"test\",\"desc\":\"a faire\",\"isComplete\":false,\"id\":5}",
       "6": "{\"title\":\"string\",\"desc\":\"string\",\"isComplete\":true,\"id\":6}",
-      "7": "{\"title\":\"Je veux tester un truc\",\"desc\":\"test truc\",\"isComplete\":false,\"id\":7}"
+      "7": "{\"title\":\"Je veux tester un truc\",\"desc\":\"test truc\",\"isComplete\":false,\"id\":7}",
+      "8": "{\"title\":\"Sarah veut testet\",\"desc\":\"Sarah voulait voir comment ca marchait\",\"isComplete\":false,\"id\":8}"
     }
   }
 }
